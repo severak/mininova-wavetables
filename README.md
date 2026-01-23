@@ -1,6 +1,6 @@
-# mininova wavetables
+# Mininova wavetables
 
-Novation Mininova has 36 built-in wavetables. Problem is that Novation did not bothered to document what sounds are inside those, they just named it Wawetable1 ti Wavetable36. To make things even worse is seems like those wavetables are not in some logical order (e.g. from sinewave to harmonically more rich content) as seen in other synths but in seemingly random order.
+Novation Mininova has 36 built-in wavetables. Problem is that Novation did not bothered to document what sounds are inside those, they just named it from `Wawetable1` to `Wavetable36`. To make things even worse is seems like those wavetables are not in some logical order (e.g. from sine wave to harmonically more rich content as seen in other synths) but in seemingly random order.
 
 This project aims to document those to help making Mininova presets easier.
 
